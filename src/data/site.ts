@@ -44,7 +44,7 @@ export const site = {
   },
 
   seo: {
-    siteUrl: "https://www.apmpapantulis.com", // ganti dengan domain asli saat sudah tersedia
+    siteUrl: "https://anugrahputramandiri.com", // ganti dengan domain asli saat sudah tersedia
     defaultTitle: "Anugrah Putra Mandiri | Produsen Papan Tulis & Papan Tulis Custom",
     defaultDescription:
       "Anugrah Putra Mandiri menyediakan berbagai jenis papan tulis seperti whiteboard, papan tulis magnetik, glassboard, dan papan tulis custom untuk sekolah, kantor, instansi, dan berbagai kebutuhan.",
